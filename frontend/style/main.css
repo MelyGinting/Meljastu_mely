@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins';
+}
+
+.popular-product{
+    margin-top: 80px;
+    margin-bottom: 180px;
+}
+.product-text{
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 20px;
+
+    background-color: blue;
+}
+
+.review{
+    margin-left: 40px;
+}
+.testimonial{
+    margin-bottom: 100px;
+}
